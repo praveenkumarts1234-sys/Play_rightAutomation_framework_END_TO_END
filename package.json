@@ -1,0 +1,23 @@
+{
+  "name": "play_rightautomation_framework_end_to_end",
+  "version": "1.0.0",
+  "description": "\"Modern End-to-End testing framework built with Playwright and TypeScript, featuring Page Object Model (POM) and CI/CD integration.\"",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveenkumarts1234-sys/Play_rightAutomation_framework_END_TO_END.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/praveenkumarts1234-sys/Play_rightAutomation_framework_END_TO_END/issues"
+  },
+  "homepage": "https://github.com/praveenkumarts1234-sys/Play_rightAutomation_framework_END_TO_END#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0"
+  }
+}
